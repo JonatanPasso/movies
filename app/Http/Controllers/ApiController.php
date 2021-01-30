@@ -16,7 +16,7 @@ class ApiController extends Controller
      */
     public function __construct()
     {
-//        Artisan::call('db:seed');
+        Artisan::call('db:seed');
     }
 
     /**
