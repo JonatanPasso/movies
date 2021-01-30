@@ -29,7 +29,7 @@ API terá os seguintes endpoints:
 
 ## GitHub
 
-- https://github.com/JonatanPasso/crudlaravel
+- https://github.com/JonatanPasso/movies
 
 
 
